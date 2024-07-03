@@ -40,3 +40,8 @@ Q3:
 # curl <localhost / ip>:8081
 # curl <localhost / ip>:8082
 # curl <localhost / ip>:8083
+
+Q4:
+#    docker ps 
+#    docker stop <container id>
+#    docker start <stopped contianer id>
